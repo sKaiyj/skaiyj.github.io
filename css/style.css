@@ -566,7 +566,7 @@ N
   margin-bottom: 44px;
   margin-left: 30px;
   margin-right: 30px;
-  height: auto;
+  max-width: 100%;
 }
 
 .col__img_1 {
